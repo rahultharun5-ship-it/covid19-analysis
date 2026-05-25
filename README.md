@@ -1,4 +1,5 @@
 # COVID-19 Data Analysis
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahultharun5-ship-it/covid19-analysis/blob/main/COVID19_Global_Analysis.ipynb)
 
 **Author:** Tharun R  
 **License:** MIT © 2025 Tharun R
